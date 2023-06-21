@@ -1,0 +1,21 @@
+{
+  "name": "auto-wa-message",
+  "version": "1.0.0",
+  "description": "Automatically send message to unlimited number in WhatsApp",
+  "keywords": [
+    "whatsapp",
+    "js-whatsapp",
+    "whatsapp-api",
+    "whatsapp-web",
+    "whatsapp-chat",
+    "automation"
+  ],
+  "main": "src/index.js",
+  "scripts": {},
+  "author": "LackFos",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "puppeteer": "^20.7.2"
+  }
+}
